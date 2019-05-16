@@ -5,7 +5,8 @@ player = new Player()
 //Create your objects
 let hallway = new Room("dusty hallway", "clouds of dust kick up with every step.");
 let vase = new Item("vase", "made of blue glass, chipped on top. Filled with a dark liquid.")
-let room = new Room("dark room", "It is dark");
+let toycar = new item (", ")
+let chair = new item ("")
 
 hallway.addItem(vase);
 hallway.addItem(room);
